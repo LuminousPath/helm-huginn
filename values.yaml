@@ -30,11 +30,11 @@ externalDatabase:
   ## Database port
   port: 3306
   ## Database user
-  user: nextcloud
+  user: huginn
   ## Database password
   password: ""
   ## Database name
-  database: nextcloud
+  database: huginn
 
 postgresql:
   ## Whether to deploy a postgres server to satisfy the applications database requirements.
